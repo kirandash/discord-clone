@@ -16,3 +16,7 @@
 - dotenv
 - bcryptjs: for encrypting and decrypting password
 - nodemon: to check for changes in code and save and restart server
+
+### 1.2 Creating Server
+
+- start server: `node server.js`
