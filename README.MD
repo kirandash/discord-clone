@@ -30,3 +30,5 @@
 - 0.0.0.0/0 gor global network access
 
 ### 1.6 Connecting with DB from server and testing connection
+
+### 1.7 Creating folder structure and authentication routes

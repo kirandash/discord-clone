@@ -2,8 +2,9 @@ const express = require("express");
 const http = require("http");
 const cors = require("cors");
 const mongoose = require("mongoose");
-
 require("dotenv").config();
+
+const authRoutes = require("./routes/authRoutes");
 
 const PORT = process.env.PORT || process.env.API_PORT;
 
@@ -13,6 +14,8 @@ const app = express();
 // Middlewares
 app.use(express.json());
 app.use(cors());
+// register the rotues
+app.use("/api/auth", authRoutes);
 
 // create http server
 const server = http.createServer(app);
