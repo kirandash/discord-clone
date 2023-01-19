@@ -32,3 +32,7 @@
 ### 1.6 Connecting with DB from server and testing connection
 
 ### 1.7 Creating folder structure and authentication routes
+
+### 1.8 Testing routes with Postman
+
+### 1.9 Moving handlers to controllers folder
