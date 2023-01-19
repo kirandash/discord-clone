@@ -22,3 +22,11 @@
 - start server: `node server.js`
 
 ### 1.3 Nodemon - adding script to automatically restart server after changes
+
+### 1.4 Creating MongoDB Database in Cloud
+
+### 1.5 Connecting MongoDB
+
+- 0.0.0.0/0 gor global network access
+
+### 1.6 Connecting with DB from server and testing connection
