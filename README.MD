@@ -20,3 +20,5 @@
 ### 1.2 Creating Server
 
 - start server: `node server.js`
+
+### 1.3 Nodemon - adding script to automatically restart server after changes
