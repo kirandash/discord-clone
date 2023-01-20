@@ -36,3 +36,5 @@
 ### 1.8 Testing routes with Postman
 
 ### 1.9 Moving handlers to controllers folder
+
+### 1.10 Adding request validation with Joi
