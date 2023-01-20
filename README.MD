@@ -38,3 +38,5 @@
 ### 1.9 Moving handlers to controllers folder
 
 ### 1.10 Adding request validation with Joi
+
+### 1.11 Creating User Model
