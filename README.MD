@@ -2,7 +2,7 @@
 
 - Built with MERN stack
 
-## 1 Setup
+## 1 Preparing server and authentication
 
 ### 1.1 Installing packages
 
@@ -46,3 +46,5 @@
 ### 1.13 Creating Login functionality
 
 ### 1.14 Creating JWT Token
+
+### 1.15 Creating middleware to check if token is valid and not expired
