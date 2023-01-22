@@ -40,3 +40,7 @@
 ### 1.10 Adding request validation with Joi
 
 ### 1.11 Creating User Model
+
+### 1.12 Creating Register functionality
+
+### 1.13 Creating Login functionality
