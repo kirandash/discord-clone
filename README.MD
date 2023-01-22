@@ -44,3 +44,5 @@
 ### 1.12 Creating Register functionality
 
 ### 1.13 Creating Login functionality
+
+### 1.14 Creating JWT Token
